@@ -3,9 +3,9 @@
 A WhatsApp voice note → student page pipeline built for the Udukku Music Prompt Engineer Intern assignment.
 
 ---
-<img width="1080" height="4587" alt="1000330692" src="https://github.com/user-attachments/assets/28e624d6-b675-4e90-bd8d-d37d5152c961" />
-<img width="1080" height="3367" alt="1000330696" src="https://github.com/user-attachments/assets/8daacd84-d66a-409f-8f77-bf39741fe725" />
-<img width="1080" height="3414" alt="1000330694" src="https://github.com/user-attachments/assets/ee88378b-85ef-46bb-ab2e-21ceef9535bb" />
+<img width="500" height="2000" alt="1000330692" src="https://github.com/user-attachments/assets/28e624d6-b675-4e90-bd8d-d37d5152c961" />
+<img width="500" height="2000" alt="1000330696" src="https://github.com/user-attachments/assets/8daacd84-d66a-409f-8f77-bf39741fe725" />
+<img width="500" height="2000" alt="1000330694" src="https://github.com/user-attachments/assets/ee88378b-85ef-46bb-ab2e-21ceef9535bb" />
 
 
 ## What it does
