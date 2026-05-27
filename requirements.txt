@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────
+# Udukku Music Bot — requirements.txt
+# Tested and verified on Python 3.11+ (May 2025)
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────
+
+# Web framework
+fastapi==0.136.3
+starlette==1.1.0
+uvicorn[standard]==0.48.0
+python-multipart==0.0.29
+
+# HTTP client (for downloading Twilio audio)
+httpx==0.28.1
+
+# AI / LLM
+groq==1.2.0
+
+# WhatsApp / SMS
+twilio==9.10.9
+
+# Google APIs (Sheets + Docs + Drive)
+google-api-python-client==2.196.0
+google-auth==2.53.0
+google-auth-httplib2==0.4.0
+
+# Env variables
+python-dotenv==1.2.2
