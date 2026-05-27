@@ -3,11 +3,11 @@
 A WhatsApp voice note → student page pipeline built for the Udukku Music Prompt Engineer Intern assignment.
 
 ---
-<img width="300" height="800" alt="1000330692" src="https://github.com/user-attachments/assets/28e624d6-b675-4e90-bd8d-d37d5152c961" />
+<img width="300" height="1050" alt="1000330692" src="https://github.com/user-attachments/assets/28e624d6-b675-4e90-bd8d-d37d5152c961" />
 
-<img width="300" height="800" alt="1000330696" src="https://github.com/user-attachments/assets/8daacd84-d66a-409f-8f77-bf39741fe725" />
+<img width="250" height="800" alt="1000330696" src="https://github.com/user-attachments/assets/8daacd84-d66a-409f-8f77-bf39741fe725" />
 
-<img width="300" height="800" alt="1000330694" src="https://github.com/user-attachments/assets/ee88378b-85ef-46bb-ab2e-21ceef9535bb" />
+<img width="250" height="800" alt="1000330694" src="https://github.com/user-attachments/assets/ee88378b-85ef-46bb-ab2e-21ceef9535bb" />
 
 
 ## What it does
